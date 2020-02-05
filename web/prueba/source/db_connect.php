@@ -1,7 +1,7 @@
 <?php
 
 $username = 'givememoney';
-$password = 'Mario456luis$';
+$password = '';
 $dsn = 'mysql:host=localhost; dbname=esp_data';
 
 try {
